@@ -10,7 +10,7 @@ var data = {
 
 var postOptions = {
     method: 'POST',
-    url: 'https://hps-dev-prescreen.azurewebsites.net/api/v1/applicant',
+    url: 'https://hps-dev-prescreen.azurewebsites.net/api/v1/applicants',
     headers: {
         'X-HPS': 'apply'
     },
@@ -18,7 +18,7 @@ var postOptions = {
 };
 
 var getOptions = {
-    url: `https://hps-dev-prescreen.azurewebsites.net/api/v1/applicant/${data.email}`,
+    url: `https://hps-dev-prescreen.azurewebsites.net/api/v1/applicants/${data.email}`,
     headers: {
         'X-HPS': 'apply'
     }
