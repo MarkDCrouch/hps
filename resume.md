@@ -30,7 +30,9 @@ To work in a team environment that challenges me to learn and grow professionall
 **Manager of Web Development** | 2014-May 2015 | Tarrant County College – Fort Worth, TX
 * Managed production IIS web servers running Windows Server 2008/R2, 2012/R2, and SQL server 24/7/365
 * Oversaw the implementation and integration of 3rd party systems into the production environment
-* Managed a team that implemented websites & applications (.NET, HTML5, responsive, accessible)  Web Developer 2012-2014 Tarrant County College – Fort Worth, TX
+* Managed a team that implemented websites & applications (.NET, HTML5, responsive, accessible)
+
+**Web Developer** | 2012-2014 | Tarrant County College – Fort Worth, TX
 * Managed production IIS web servers running Windows Server 2008/R2, 2012/R2, and SQL Server 24/7/365
 * Designed and implemented websites & applications using technologies such as ASP.NET MVC, SQL, accessible & responsive design for mobile, HTML5, JavaScript/JQuery, CSS, XML, XSL, and PHP 
 
@@ -40,7 +42,7 @@ To work in a team environment that challenges me to learn and grow professionall
 
 ## Education
 
-**University of Texas in Arlington** | 2015 | Arlington, TX
+**University of Texas in Arlington** | Arlington, TX
 * B.S., Information Systems (2015) 
 
 **Tarrant County College** | Hurst, TX
@@ -48,7 +50,6 @@ To work in a team environment that challenges me to learn and grow professionall
 * A.A.S, Radio and Television Broadcasting (2005) 
 
 ## Certifications
-
 * Microsoft Certified Professional 
 * Microsoft Specialist: Programming in HTML5 with JavaScript and CSS3
 * Microsoft Certified Solutions Associate: Web Applications 
