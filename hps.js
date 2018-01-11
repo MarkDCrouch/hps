@@ -10,7 +10,7 @@ var data = {
 
 var postOptions = {
     method: 'POST',
-    url: 'https://hps-dev-prescreen.azurewebsites.net/api/v1/applicant_sandbox',
+    url: 'https://hps-dev-prescreen.azurewebsites.net/api/v1/applicant',
     headers: {
         'X-HPS': 'apply'
     },
@@ -18,7 +18,7 @@ var postOptions = {
 };
 
 var getOptions = {
-    url: `https://hps-dev-prescreen.azurewebsites.net/api/v1/applicant_sandbox/${data.email}`,
+    url: `https://hps-dev-prescreen.azurewebsites.net/api/v1/applicant/${data.email}`,
     headers: {
         'X-HPS': 'apply'
     }
@@ -27,7 +27,7 @@ var getOptions = {
 function callback(error, response, body) {
     console.log('statusCode:', response && response.statusCode);
     if (!error && response.statusCode == 200) {
-        console.log(body);
+        console.log(JSON.stringify(body, null, 2));
     }
     else {
         console.log('ERROR:', error);
