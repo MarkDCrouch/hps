@@ -1,6 +1,6 @@
 # Mark D Crouch
 
-| MarkDCrouch@outlook.com | [linkedin.com/in/markdcrouch](www.linkedin.com/in/markdcrouch) | (214) 212-7553 |
+| MarkDCrouch@outlook.com | [linkedin.com/in/markdcrouch](http://www.linkedin.com/in/markdcrouch) | (214) 212-7553 |
 |:-:|:-:|:-:|
 
 ## Objective
